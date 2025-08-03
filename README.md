@@ -1,9 +1,9 @@
 ## Задача
 
-Реализована [утилиту](https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0), производящую анализ [access.log](https://ru.wikipedia.org/wiki/Access.log).
+Реализована [утилиту](https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D0%B0), производящая анализ [access.log](https://ru.wikipedia.org/wiki/Access.log).
 
 
-На основании данного лога утилита умееть:
+На основании данного лога утилита умеет:
 
 1. Выводить запросы, которые завершились ошибкой (с кодом `5XX`).
 

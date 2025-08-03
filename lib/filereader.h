@@ -1,0 +1,2 @@
+#pragma once
+int AnalizerDefLogs(const std::string& o_pth, const std::string& i_pht,const bool& out_act,const bool& prnt_act, const bool& sts_act, int n,const bool& wndw_act, int t, int time_F, int time_E);
